@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header{
+  width: auto;
+  height: 50px;
+  background-color: red;
+}
+
+.main-visual{
+  width: auto;
+  height: 500px;
+  background-color: orange;
+}
+
+.main{
+  width: 960px;
+  /* height: 1400px; */
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.box-left{
+  width: 230px;
+  height: 1400px;
+  background-color: palegreen;
+}
+
+.box-main{
+  width: 500px;
+  height: 1400px;
+  background-color: limegreen;
+}
+
+.box-right{
+  width: 230px;
+  height: 1400px;
+  background-color: palegreen;
+}
+
+.footer{
+  width: auto;
+  height: 100px;
+  background-color: blue;
+}
